@@ -23,7 +23,7 @@
 					<LABEL text="농림축산식품부" fontStyle="bold" fontSize="12" margin="3,0,0,0"/>
 				</WINDOW>
 
-				<RADIO id="defaultMenu" themeId="menuItem" title="최신뉴스" url="http://m.mafra.go.kr/bbs/list.jsp?board_division=b_sec_1&amp;menu_gubun=menu_1" selected="true">
+				<RADIO id="defaultMenu" themeId="menuItem" title="최신뉴스" url="http://yepan.net" selected="true">
 					<LABEL themeId="menuItemIcon" defaultImg="/res/news.png" />
 					<LABEL themeId="menuItemLabel" text="{parent.title}" />
 				</RADIO>
